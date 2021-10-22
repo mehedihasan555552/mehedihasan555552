@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mehedi Hasan
 #### I am a full-stack python django developer.
-![I am a full-stack python django developer.](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/189212992_3599223793514975_8212365614934699968_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=x8k6KQn9XxsAX-1lA8b&_nc_ht=scontent.fdac8-1.fna&oh=27c3e15b71d95101d3fe50c27e949814&oe=61972B01)
+
 
 I'm Mehedi Hasan,I am a software engineer working on web applications and web infrastructure. I have been developing professionally for 2 years but tinkering since a kid. I started in tech with internships, freelance services and part time positons during college.I'm Python Django Full-Stack Web Developer 💻 with a strong educational background in Software Engineering. I am doing freelance work 🚀 in Fiverr and Frelancer , but I do work remotely for international clients.
 
